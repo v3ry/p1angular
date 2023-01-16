@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1673866732999,
-  "index": "/p1-angular/index.html",
+  "timestamp": 1673866817357,
+  "index": "/p1angular/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/p1-angular/favicon.ico",
-        "/p1-angular/index.html",
-        "/p1-angular/main.d152154031f2e84e.js",
-        "/p1-angular/manifest.webmanifest",
-        "/p1-angular/polyfills.1f754dc82beb7d48.js",
-        "/p1-angular/runtime.f5cebad9602db2ad.js",
-        "/p1-angular/styles.880da801114b4e5a.css"
+        "/p1angular/favicon.ico",
+        "/p1angular/index.html",
+        "/p1angular/main.d152154031f2e84e.js",
+        "/p1angular/manifest.webmanifest",
+        "/p1angular/polyfills.1f754dc82beb7d48.js",
+        "/p1angular/runtime.f5cebad9602db2ad.js",
+        "/p1angular/styles.880da801114b4e5a.css"
       ],
       "patterns": []
     },
@@ -29,29 +29,29 @@
         "ignoreVary": true
       },
       "urls": [
-        "/p1-angular/assets/icons/icon-128x128.png",
-        "/p1-angular/assets/icons/icon-512x512.png",
-        "/p1-angular/assets/icons/icon-72x72.png",
-        "/p1-angular/assets/icons/icon-96x96.png",
-        "/p1-angular/assets/images/logo.png"
+        "/p1angular/assets/icons/icon-128x128.png",
+        "/p1angular/assets/icons/icon-512x512.png",
+        "/p1angular/assets/icons/icon-72x72.png",
+        "/p1angular/assets/icons/icon-96x96.png",
+        "/p1angular/assets/images/logo.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/p1-angular/assets/icons/icon-128x128.png": "7dfd6a691d0aa3bd5e10d1ff85516d7f0c37ced6",
-    "/p1-angular/assets/icons/icon-512x512.png": "148295bfbcceeb4cf0bb7b6ed882ea4c7dc5a9f9",
-    "/p1-angular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/p1-angular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/p1-angular/assets/images/logo.png": "148295bfbcceeb4cf0bb7b6ed882ea4c7dc5a9f9",
-    "/p1-angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/p1-angular/index.html": "095cd8343c4b6ecc197c0a4002fabd08bc39f15e",
-    "/p1-angular/main.d152154031f2e84e.js": "142833b831b3751e4abf66a0c4293769e9bf601c",
-    "/p1-angular/manifest.webmanifest": "514c83660e4e3f2cf3d4d5624f309ac9ea7a91fe",
-    "/p1-angular/polyfills.1f754dc82beb7d48.js": "0a756854658f7fe175d35fced37a2b29b90db513",
-    "/p1-angular/runtime.f5cebad9602db2ad.js": "f1deeb31203e7698f16cf51ff81f56cd0b74730a",
-    "/p1-angular/styles.880da801114b4e5a.css": "886602c42027c789d9bf0d0d90df7806e0090798"
+    "/p1angular/assets/icons/icon-128x128.png": "7dfd6a691d0aa3bd5e10d1ff85516d7f0c37ced6",
+    "/p1angular/assets/icons/icon-512x512.png": "148295bfbcceeb4cf0bb7b6ed882ea4c7dc5a9f9",
+    "/p1angular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/p1angular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/p1angular/assets/images/logo.png": "148295bfbcceeb4cf0bb7b6ed882ea4c7dc5a9f9",
+    "/p1angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/p1angular/index.html": "55980d8432efc2db6ada5ec03a39b5a14b63a6a5",
+    "/p1angular/main.d152154031f2e84e.js": "142833b831b3751e4abf66a0c4293769e9bf601c",
+    "/p1angular/manifest.webmanifest": "514c83660e4e3f2cf3d4d5624f309ac9ea7a91fe",
+    "/p1angular/polyfills.1f754dc82beb7d48.js": "0a756854658f7fe175d35fced37a2b29b90db513",
+    "/p1angular/runtime.f5cebad9602db2ad.js": "f1deeb31203e7698f16cf51ff81f56cd0b74730a",
+    "/p1angular/styles.880da801114b4e5a.css": "886602c42027c789d9bf0d0d90df7806e0090798"
   },
   "navigationUrls": [
     {
