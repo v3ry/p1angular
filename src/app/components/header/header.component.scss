@@ -1,0 +1,49 @@
+.head {
+    width: 100%;
+    z-index: 20;
+    height: 90px;
+}
+header{
+    margin-top: 1rem;
+    display: inline-flex;
+}
+
+.head .wrap {
+    height: 100%;
+    max-width: 100%;
+    background: rgb(253, 255, 199);
+    -webkit-box-shadow: 0 1px 4px rgb(0 0 0 / 20%);
+    -moz-box-shadow: 0 1px 4px rgba(0,0,0,.2);
+    box-shadow: 0 1px 4px rgb(0 0 0 / 20%);
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.leftHeader{
+    margin: 1rem;
+    display: inline-flex;
+}
+
+.rightHeader{
+    margin: 2rem;
+}
+h1{
+    margin-left: 2rem;
+}
+
+.wrap {
+    margin: 0 auto;
+    width: 1200px;
+    // text-align: left;
+    max-width: 98%;
+}
+
+
+
+
+
+img {
+    height: 90px;
+    width: 90px;
+}
