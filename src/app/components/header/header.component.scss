@@ -39,11 +39,30 @@ h1{
     max-width: 98%;
 }
 
-
-
-
-
 img {
     height: 90px;
     width: 90px;
+}
+
+@media screen and (max-width: 700px) {
+    body{
+        background-color: red;
+    }
+    .wrap {
+        margin: 0 auto;
+        width: 100%;
+        // text-align: left;
+        // max-width: 98%;
+    }
+    img {
+        height: 90px;
+        width: 90px;
+    }
+    // h1{
+    //     color: red;
+    //     font-size: 0.7rem;
+    // }
+    button{
+        display: none;
+    }
 }

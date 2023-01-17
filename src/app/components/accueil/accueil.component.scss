@@ -10,3 +10,18 @@
 .toto{
     color: red;
 }
+
+@media screen and (max-width: 700px) {
+    body{
+        background-color: red;
+    }
+    .accueil {
+        margin: 0 auto;
+        width: 100%;
+        // text-align: left;
+        // max-width: 98%;
+    }
+    h1{
+        color: red;
+    }
+}

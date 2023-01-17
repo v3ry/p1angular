@@ -1,12 +1,14 @@
 {
-  "name": "p1-angular",
+  "name": "p1angular",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "predeploy": "ng build --base-href=/p1angular/",
+    "deploy": "npx gh-pages -d dist/p1angular"
   },
   "private": true,
   "dependencies": {
