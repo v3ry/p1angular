@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "predeploy": "ng build --base-href=/p1angular/",
-    "deploy": "npx gh-pages -d dist/p1angular"
+    "deploy": "npx gh-pages -d dist/p1-angular"
   },
   "private": true,
   "dependencies": {
