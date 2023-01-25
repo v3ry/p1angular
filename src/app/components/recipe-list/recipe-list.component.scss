@@ -1,31 +1,23 @@
-.accueil{
+.recipList{
     width: 1200px;
     display: flex;
-    align-items: center;
-    flex-direction: column;
-    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
     margin: auto;
     margin-top: 2rem;
     background: rgba(253, 255, 199, 0.75);
     border-radius: 11px;
 }
 
-.toto{
-    color: red;
-}
 
 @media screen and (max-width: 1200px) {
-    body{
-        background-color: red;
-    }
-    .accueil {
+    .recipList {
         margin: 0 auto;
         margin-top: 2rem;
         width: 100%;
         // text-align: left;
         // max-width: 98%;
     }
-    h1{
-        color: red;
-    }
+
 }

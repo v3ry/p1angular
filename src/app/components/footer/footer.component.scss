@@ -1,4 +1,4 @@
-.accueil{
+.footer{
     width: 1200px;
     display: flex;
     align-items: center;
@@ -10,22 +10,17 @@
     border-radius: 11px;
 }
 
-.toto{
-    color: red;
+p{
+    text-align: center;
 }
 
 @media screen and (max-width: 1200px) {
-    body{
-        background-color: red;
-    }
-    .accueil {
+    .footer {
         margin: 0 auto;
         margin-top: 2rem;
         width: 100%;
         // text-align: left;
         // max-width: 98%;
     }
-    h1{
-        color: red;
-    }
+
 }
